@@ -1,0 +1,1 @@
+enum CanvasEnum {basic, reset, userInfo, home, homeCom, createDeal, inviteDeal, finishDeal, notification, storeDetail, chatLog, storeSearch}

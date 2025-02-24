@@ -1,0 +1,24 @@
+name: common_network
+description: A sample command-line application.
+version: 1.0.0
+# repository: https://github.com/my_org/my_repo
+
+environment:
+  sdk: ^3.6.1
+
+# Add regular dependencies here.
+dependencies:
+  dio: ^5.7.0
+  logger: ^2.5.0
+  connectivity_plus: ^6.1.1
+  # path: ^1.8.0
+  utils:
+    path: ../../global/utils
+  common_cache:
+    path: ../common_cache
+  common_url:
+    path: ../common_url
+
+dev_dependencies:
+  lints: ^5.0.0
+  test: ^1.24.0

@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "/Users/mong/flutter/packages/flutter_tools/gradle/src/main/groovy/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/mong/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/mong/Desktop/mong/banana_deal_by_monkeycompany/android/app/.cxx/RelWithDebInfo/1k4016i1/x86_64",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/mong/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/mong/Desktop/mong/banana_deal_by_monkeycompany/android/app/.cxx/RelWithDebInfo/1k4016i1/x86_64",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {}
+}

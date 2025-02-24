@@ -1,0 +1,27 @@
+name: common_provider
+description: A sample command-line application.
+version: 1.0.0
+# repository: https://github.com/my_org/my_repo
+
+environment:
+  sdk: ^3.6.1
+
+# Add regular dependencies here.
+dependencies:
+  flutter_bloc: ^9.0.0
+  flutter:
+    sdk: flutter
+
+  core:
+    path: ../../global/core
+  common_network:
+    path: ../common_network
+  common_cache:
+    path: ../common_cache
+  common_url:
+    path: ../common_url
+  # path: ^1.8.0
+
+dev_dependencies:
+  lints: ^5.0.0
+  test: ^1.24.0

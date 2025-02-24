@@ -1,0 +1,12 @@
+<svg id="레이어_1" data-name="레이어 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 98.04 79.31">
+  <title>매장추가 아이콘</title>
+  <rect x="8.04" y="21.72" width="81.98" height="56.09" fill="#fff" stroke="#000" stroke-miterlimit="10" stroke-width="3"/>
+  <path d="M33.29,80.9V54.74s-.62-8.78,9.36-8.9c10.47-.12,19.57,0,19.57,0s9.23-.05,9.23,8.9V80.9Z" transform="translate(-3.29 -3.08)" fill="#ddd" stroke="#000" stroke-miterlimit="10" stroke-width="3"/>
+  <path d="M43.83,4.58H60l7.82,25.35s-13.49,19.69-31,0Z" transform="translate(-3.29 -3.08)" fill="#ffc200" stroke="#000" stroke-miterlimit="10" stroke-width="3"/>
+  <path d="M23.21,4.58H43.39L36.21,29.93s-13.48,19.69-31,0Z" transform="translate(-3.29 -3.08)" fill="#ffc200" stroke="#000" stroke-miterlimit="10" stroke-width="3"/>
+  <path d="M81.4,4.58H61.22L68.4,29.93s13.49,19.69,31,0Z" transform="translate(-3.29 -3.08)" fill="#ffc200" stroke="#000" stroke-miterlimit="10" stroke-width="3"/>
+  <g>
+    <line x1="48.88" y1="51.54" x2="48.88" y2="70.15" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="3"/>
+    <line x1="39.53" y1="60.85" x2="58.22" y2="60.85" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="3"/>
+  </g>
+</svg>

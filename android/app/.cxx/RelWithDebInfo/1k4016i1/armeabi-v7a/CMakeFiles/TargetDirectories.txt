@@ -1,0 +1,2 @@
+/Users/mong/Desktop/mong/banana_deal_by_monkeycompany/android/app/.cxx/RelWithDebInfo/1k4016i1/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/mong/Desktop/mong/banana_deal_by_monkeycompany/android/app/.cxx/RelWithDebInfo/1k4016i1/armeabi-v7a/CMakeFiles/rebuild_cache.dir

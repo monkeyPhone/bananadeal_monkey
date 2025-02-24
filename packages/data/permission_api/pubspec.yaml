@@ -1,0 +1,22 @@
+name: permission_api
+description: A sample command-line application.
+version: 1.0.0
+# repository: https://github.com/my_org/my_repo
+
+environment:
+  sdk: ^3.6.1
+
+# Add regular dependencies here.
+dependencies:
+  permission_handler: ^11.3.1
+  shared_preferences:
+
+  common_cache:
+    path: ../../common/common_cache
+  models:
+    path: ../../global/models
+  # path: ^1.8.0
+
+dev_dependencies:
+  lints: ^5.0.0
+  test: ^1.24.0

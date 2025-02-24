@@ -1,0 +1,107 @@
+{
+  "project_info": {
+    "project_number": "168957135631",
+    "firebase_url": "https://monkeysphone-dda5f.firebaseio.com",
+    "project_id": "monkeysphone-dda5f",
+    "storage_bucket": "monkeysphone-dda5f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:168957135631:android:2f7682713021506e810c7a",
+        "android_client_info": {
+          "package_name": "com.monkeycompany.bananadeal.banana_deal_by_monkeycompany.type"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "168957135631-deelecg99bob3h5lhbdolka8ksgbt3ga.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.monkeycompany.bananadeal.banana_deal_by_monkeycompany.type",
+            "certificate_hash": "ee5a6d1ebb3dbfbbcff8d7e5218fac726d0b807c"
+          }
+        },
+        {
+          "client_id": "168957135631-a6fe7p51jmj6j36ef72h6p041tqmukqv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpOOY_NHCPy9pSABN_u2dPwlvEAIQTqRA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "168957135631-a6fe7p51jmj6j36ef72h6p041tqmukqv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "168957135631-mhho0qvvjb26rfd4ki1jtne6upavqhk5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.monkeycompany.bananadeal.bananaDealByMonkeycompany"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:168957135631:android:99caf399f2c94a92",
+        "android_client_info": {
+          "package_name": "sjw.core.monkeysphone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "168957135631-9taqfoe2hjarsbc8e7hp103m56t2hv5q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "sjw.core.monkeysphone",
+            "certificate_hash": "f8bc2dedbc3c62b41f1d1730516e14d66390b050"
+          }
+        },
+        {
+          "client_id": "168957135631-qpnn655rill63taukicqs5dg1sqagvfc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "sjw.core.monkeysphone",
+            "certificate_hash": "8c645d7c2a1803bcab38f7fd9a45ee3879553820"
+          }
+        },
+        {
+          "client_id": "168957135631-a6fe7p51jmj6j36ef72h6p041tqmukqv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpOOY_NHCPy9pSABN_u2dPwlvEAIQTqRA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "168957135631-a6fe7p51jmj6j36ef72h6p041tqmukqv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "168957135631-mhho0qvvjb26rfd4ki1jtne6upavqhk5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.monkeycompany.bananadeal.bananaDealByMonkeycompany"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
